@@ -7,10 +7,10 @@
   ],
   "license": "MIT",
   "scripts": {
-    "prepare": "base",
-    "test": "base test"
+    "prepare": "base-node prepare",
+    "test": "base-node test"
   },
   "devDependencies": {
-    "@dword-design/base-node": "^0.1.11"
+    "@dword-design/base-node": "^0.4.1"
   }
 }
