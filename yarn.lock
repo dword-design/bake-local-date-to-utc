@@ -747,10 +747,10 @@
     babel-plugin-module-resolver "^3.2.0"
     babel-plugin-transform-imports "^2.0.0"
 
-"@dword-design/base-node@0.4.4":
-  version "0.4.4"
-  resolved "https://registry.yarnpkg.com/@dword-design/base-node/-/base-node-0.4.4.tgz#97644f7b3316ffcdbfbc8cbcb1f207ecdda43efd"
-  integrity sha512-ngWTk6I45a95dS+ttRabJ6AetWAj5VVxO4J02UOP+gBFqWq5W2eNaodx7T9XPZJ+A/eTH7o/Rp3iyH7MRE2iTw==
+"@dword-design/base-node@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@dword-design/base-node/-/base-node-1.0.0.tgz#862ed8738441ce94e92a9ff687f7ac92a9f31c2d"
+  integrity sha512-CVifSZsKT3m9TDbTfm3yZPUhPsu0TQQJTcWwAPf7YpReoxOKpENqbN+h5k4vGTmy55sEJhyqGIw5nk4vPRfvjA==
   dependencies:
     "@dword-design/base" "^1.0.0"
 
