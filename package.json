@@ -2,10 +2,7 @@
   "name": "@dword-design/bake-local-date-to-utc",
   "version": "1.0.5",
   "description": "",
-  "bugs": {
-    "url": "https://github.com/dword-design/output-files/issues"
-  },
-  "repository": "dword-design/output-files",
+  "repository": "dword-design/bake-local-date-to-utc",
   "license": "MIT",
   "author": "Sebastian Landwehr <info@dword-design.de>",
   "files": [
@@ -20,10 +17,5 @@
   "devDependencies": {
     "@dword-design/base": "^4.0.0",
     "expect": "^24.9.0"
-  },
-  "contributors": [
-    "dword-design (http://www.dword-design.de)",
-    "Renovate Bot (http://renovatebot.com)"
-  ],
-  "maintainers": []
+  }
 }
