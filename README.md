@@ -3,7 +3,7 @@
 <!-- /TITLE -->
 
 <!-- BADGES/ -->
-[![NPM version](https://img.shields.io/npm/v/@dword-design/bake-local-date-to-utc.svg)](https://npmjs.org/package/@dword-design/bake-local-date-to-utc)
+[![npm version](https://img.shields.io/npm/v/@dword-design/bake-local-date-to-utc.svg)](https://npmjs.org/package/@dword-design/bake-local-date-to-utc)
 ![Linux macOS Windows compatible](https://img.shields.io/badge/os-linux%20%7C%C2%A0macos%20%7C%C2%A0windows-blue)
 [![Build status](https://github.com/dword-design/bake-local-date-to-utc/workflows/build/badge.svg)](https://github.com/dword-design/bake-local-date-to-utc/actions)
 [![Coverage status](https://img.shields.io/coveralls/dword-design/bake-local-date-to-utc)](https://coveralls.io/github/dword-design/bake-local-date-to-utc)
@@ -41,7 +41,7 @@
 ## Install
 
 ```bash
-# NPM
+# npm
 $ npm install @dword-design/bake-local-date-to-utc
 
 # Yarn
