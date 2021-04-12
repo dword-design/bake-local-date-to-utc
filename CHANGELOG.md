@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/dword-design/bake-local-date-to-utc/compare/v1.0.13...v1.0.14) (2021-04-12)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#40](https://github.com/dword-design/bake-local-date-to-utc/issues/40)) ([e4df48b](https://github.com/dword-design/bake-local-date-to-utc/commit/e4df48b6f152dbd50f01a3f1fd1e57c1d361f4cc))
+
 ## [1.0.13](https://github.com/dword-design/bake-local-date-to-utc/compare/v1.0.12...v1.0.13) (2021-03-22)
 
 
