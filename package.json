@@ -1,6 +1,7 @@
 {
   "name": "@dword-design/bake-local-date-to-utc",
   "version": "1.0.14",
+  "description": "",
   "repository": "dword-design/bake-local-date-to-utc",
   "funding": "https://www.buymeacoffee.com/dword",
   "license": "MIT",
