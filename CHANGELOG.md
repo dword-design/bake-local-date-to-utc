@@ -1,3 +1,10 @@
+## [2.0.6](https://github.com/dword-design/bake-local-date-to-utc/compare/v2.0.5...v2.0.6) (2022-01-12)
+
+
+### Bug Fixes
+
+* update config files ([4d3589c](https://github.com/dword-design/bake-local-date-to-utc/commit/4d3589c959badfe84be19a7c17a57618beba5777))
+
 ## [2.0.5](https://github.com/dword-design/bake-local-date-to-utc/compare/v2.0.4...v2.0.5) (2021-12-28)
 
 
