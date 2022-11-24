@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/dword-design/bake-local-date-to-utc/compare/v2.0.6...v3.0.0) (2022-11-24)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#101](https://github.com/dword-design/bake-local-date-to-utc/issues/101)) ([ddc46d6](https://github.com/dword-design/bake-local-date-to-utc/commit/ddc46d6b674970cb10f5e34f502961b34f2359c3))
+
+
+### BREAKING CHANGES
+
+* drop node 12 support, switch to esm
+
 ## [2.0.6](https://github.com/dword-design/bake-local-date-to-utc/compare/v2.0.5...v2.0.6) (2022-01-12)
 
 
