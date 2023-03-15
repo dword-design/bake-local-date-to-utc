@@ -6,6 +6,6 @@ export default date =>
       date.getDate(),
       date.getHours(),
       date.getMinutes(),
-      date.getSeconds()
-    )
+      date.getSeconds(),
+    ),
   )
