@@ -1,3 +1,10 @@
+## [3.0.2](https://github.com/dword-design/bake-local-date-to-utc/compare/v3.0.1...v3.0.2) (2023-06-08)
+
+
+### Bug Fixes
+
+* trigger release ([6c777aa](https://github.com/dword-design/bake-local-date-to-utc/commit/6c777aa23336159cf42594547c69b03b67bb9f9a))
+
 ## [3.0.1](https://github.com/dword-design/bake-local-date-to-utc/compare/v3.0.0...v3.0.1) (2023-02-15)
 
 
