@@ -1,3 +1,16 @@
+# [4.0.0](https://github.com/dword-design/bake-local-date-to-utc/compare/v3.0.4...v4.0.0) (2025-12-02)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#111](https://github.com/dword-design/bake-local-date-to-utc/issues/111)) ([f168521](https://github.com/dword-design/bake-local-date-to-utc/commit/f1685214218bf2e8cddef1daf567b1a5ec68c310))
+* trigger release ([9c8ea0e](https://github.com/dword-design/bake-local-date-to-utc/commit/9c8ea0e2a530b7a293ab376e905efaae911661fc))
+
+
+### BREAKING CHANGES
+
+* node.js >= 22
+
 ## [3.0.4](https://github.com/dword-design/bake-local-date-to-utc/compare/v3.0.3...v3.0.4) (2023-06-08)
 
 
