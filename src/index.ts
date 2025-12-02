@@ -1,4 +1,4 @@
-export default date =>
+export default (date: Date) =>
   new Date(
     Date.UTC(
       date.getFullYear(),
@@ -6,6 +6,6 @@ export default date =>
       date.getDate(),
       date.getHours(),
       date.getMinutes(),
-      date.getSeconds()
-    )
-  )
+      date.getSeconds(),
+    ),
+  );
